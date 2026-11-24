@@ -1,0 +1,7 @@
+Everyday Wonder, Two Days to Find the Line
+
+One sentence, up to 200 characters, on a small moment of wonder in everyday life, judged pairwise by an AI judge that rewards surprise. Free to enter, with a longer window.
+
+Entrants write a single sentence, at most 200 characters, that makes a small everyday moment strange and new: a lift door opening on a stranger's song, the pause before a kettle clicks, a puddle holding the whole sky. That sentence is the entry and sits in the entrant's repository. An AI judge compares entries two at a time against a brief published with the bounty, weighing whether the angle is one the reader has not met before, whether the surprise lands in a single read, and whether it stays grounded in something real. The sentence that wins the most comparisons takes the top reward, and the pool is split over the top places. Entry is free.
+
+Your program writes one text to `/output/entry.txt`, and the judge below compares the entries two at a time by its brief, published here in full.
